@@ -46,15 +46,15 @@ A partir da próxima seção apresentaremos os conceitos envolvidos na engenhari
 ![engenharia](https://arquivo.devmedia.com.br/artigos/Fabio_Gomes_Rocha/Engenharia_Requisitos/Engenharia_Requisitos_1.jpg) 
 
 Elemento |	Descrição
-------- |---------
-Caso de Uso	Descreve uma interação entre um ator (usuário) e o sistema para alcançar um objetivo específico.
-Ator	Representa um papel desempenhado por um usuário ou outro sistema externo ao sistema em análise.
-Pré-condições	Condições que devem ser verdadeiras antes que o caso de uso possa ser iniciado.
-Pós-condições	Condições que devem ser verdadeiras após a conclusão bem-sucedida do caso de uso.
-Fluxo Principal	Descreve a sequência de eventos que ocorre quando o caso de uso é executado sem problemas.
-Extensões	Descreve as variações ou exceções que podem ocorrer durante a execução do caso de uso.
-Pontos de Extensão	Marcadores dentro do fluxo principal onde as extensões podem ocorrer, indicando onde o caso de uso pode divergir.
-Inclusões	Funcionalidades comuns compartilhadas entre vários casos de uso, que são modeladas uma vez e incluídas conforme necessário.
-Casos de Uso Relacionados	Lista de outros casos de uso que estão relacionados de alguma forma com o caso de uso atual.
+-------|--------
+Caso de Uso |	Descreve uma interação entre um ator (usuário) e o sistema para alcançar um objetivo específico.
+Ator |	Representa um papel desempenhado por um usuário ou outro sistema externo ao sistema em análise.
+Pré-condições |	Condições que devem ser verdadeiras antes que o caso de uso possa ser iniciado.
+Pós-condições |	Condições que devem ser verdadeiras após a conclusão bem-sucedida do caso de uso.
+Fluxo Principal	| Descreve a sequência de eventos que ocorre quando o caso de uso é executado sem problemas.
+Extensões |	Descreve  as variações ou exceções que podem ocorrer durante a execução do caso de uso.
+Pontos de Extensão |	Marcadores dentro do fluxo principal onde as extensões podem ocorrer, indicando onde o caso de uso pode divergir.
+Inclusões |	Funcionalidades comuns compartilhadas entre vários casos de uso, que são modeladas uma vez e incluídas conforme necessário.
+Casos de Uso Relacionados |	Lista de outros casos de uso que estão relacionados de alguma forma com o caso de uso atual.
 
 [Para acessar o assunto, clique aqui](https://www.devmedia.com.br/introducao-a-engenharia-de-requisitos/8034)
